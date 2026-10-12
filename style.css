@@ -167,4 +167,5 @@ figcaption{
 .footer-logo img{
     width: 150px;
     height: 80px;
+    object-fit: contain;
 }
